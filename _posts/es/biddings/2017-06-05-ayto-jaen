@@ -1,0 +1,28 @@
+---
+layout: bid
+published: false
+ref: Ayuntamiento de Jaén
+lang: es
+categories:
+  - es
+  - biddings
+# Custom
+title: Servicios públicos de limpieza urbana
+date: 2017-06-02
+term: 2017-07-17
+tipus: Servicios
+place: Jaén
+entity: Ayuntamiento de Jaén
+cost: 240.672.888,00 €
+document:
+documentPDF:
+  - ppt_jaen.pdf
+sections:
+- ¿Qué te ofrece gvSIG Roads?
+- El Ayuntamiento requiere una gestión informatizada del servicio cuya complejidad debe ser resuelta con una aplicación de software que sea pefectamente adaptada a sus requerimientos.
+- La plataforma de gestión de activos gvSIG Roads tiene la capacidad de ser adaptada a este tipo de requerimientos.
+- |
+  Trabajo en tiempo real sin necesidad de inverión en hardaware ni coste de licencias anuales. Consulta de históricos, sistema de informaicón geográfica GIS integrado en la aplicación, integración con sensores y dispositivos embarcados, todo ello bajo una plataforma de software libre y bajo estándares de programación.
+---
+
+Contrato, Gestión indirecta de los servicios públicos de limpieza urbana, recogida y transporte de residuos sólidos urbanos y servicios complementarios de desratización, desinfección y desinsectación; y gestión de animales abandonados o sus cadáveres, así como el mantenimiento de jardines y zonas verdes de la ciudad de Jaén
