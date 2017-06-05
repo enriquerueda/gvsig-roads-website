@@ -1,0 +1,30 @@
+---
+layout: bid
+published: false
+ref: Ayuntamiento Alicante
+lang: es
+categories:
+  - es
+  - biddings
+# Custom
+title: Mantenimiento de calzadas y caminos públicos de Alicante.
+date: 2017-05-26
+term: 2017-07-18
+tipus: Servicios
+place: Alicante
+entity: Ayuntamiento de Alicante
+cost: 4.462.809 €
+document:
+documentPDF:
+  - ppt_Ayto_Alicante.pdf
+  - padm_Ayto_Alicante.pdf
+sections:
+- ¿Qué te ofrece gvSIG Roads?
+- El Ayuntamiento necesita un software para la gestión y explotación del servicio que se integre con sus aplicaciones cuya principal caracterísitica es poder acceder vía web y ser Open Source. Su tecnología deberá cumplir con los estándares de programación más actuales.
+- |
+  La plataforma de gestión de acivos gvSIG Roads cumple con esas exgencias y está preparada para adecuarse a aquellas necesidades que tiene el Ayuntamiento, flujo de trabajo, Inventario, catografía y mucho más.
+---
+
+El objeto del contrato es la realización de las obras y trabajos de reparación, mantenimiento y conservación de los pavimentos bituminos de las calzadas, caminos, plazas y zonas verdes del término municipal de Alciante.
+
+
